@@ -2,7 +2,6 @@
 - 👀 I’m interested in Forntend and Backend Engineering
 - 🌱 I’m currently learning Vue js, React js, Golang, express js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me malfariza45@gmail.com
 
 <!---
 AlfaRiza/AlfaRiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
